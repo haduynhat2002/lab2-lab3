@@ -1,0 +1,6 @@
+C:\Users\Ha Nhat\RiderProjects\BtLabDS\BtLabDS\bin\Debug\BtLabDS.exe
+C:\Users\Ha Nhat\RiderProjects\BtLabDS\BtLabDS\bin\Debug\BtLabDS.pdb
+C:\Users\Ha Nhat\RiderProjects\BtLabDS\BtLabDS\obj\Debug\BtLabDS.csprojAssemblyReference.cache
+C:\Users\Ha Nhat\RiderProjects\BtLabDS\BtLabDS\obj\Debug\BtLabDS.csproj.CoreCompileInputs.cache
+C:\Users\Ha Nhat\RiderProjects\BtLabDS\BtLabDS\obj\Debug\BtLabDS.exe
+C:\Users\Ha Nhat\RiderProjects\BtLabDS\BtLabDS\obj\Debug\BtLabDS.pdb
